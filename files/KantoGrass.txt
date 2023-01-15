@@ -1,0 +1,2 @@
+Bulbasaur,Grass,10,30,15,15,15,Growl,LA,0,100,Tackle,Normal,35,95,Vine Whip,Grass,35,100
+Charmander,Fire,10,28,16,14,19,Growl,LA,0,100,Scratch,Normal,40,100,Ember,Fire,40,100

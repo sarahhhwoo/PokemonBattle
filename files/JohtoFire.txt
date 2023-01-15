@@ -1,0 +1,2 @@
+Cyndaquil,Fire,10,28,16,14,19,Leer,LD,0,100,Tackle,Normal,35,95,Ember,Fire,40,100
+Totodile,Water,10,31,19,18,14,Leer,LD,0,100,Scratch,Normal,40,100,Water Gun,Water,40,100
