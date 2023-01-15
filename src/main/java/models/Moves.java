@@ -1,3 +1,5 @@
+package models;
+
 public abstract class Moves {
     private String name;
     private String type;

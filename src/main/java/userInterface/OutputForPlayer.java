@@ -1,3 +1,7 @@
+package userInterface;
+
+import models.Pokemon;
+
 public class OutputForPlayer {
 
     public void welcomingScreen() {

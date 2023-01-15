@@ -1,8 +1,14 @@
+package app;
+
+import models.AttackMoves;
+import models.EffectMoves;
+import models.Pokemon;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Kanto implements Readable{
+public class Kanto implements Readable {
     private String[] splitEachLine = new String[19];
     private List<String[]> listOfArraysAfterFileRead = new ArrayList<>();
     private List<Pokemon> listOfPokemon = new ArrayList<>();
@@ -62,23 +68,3 @@ public class Kanto implements Readable{
         return listOfPokemon;
     }
 }
-
-//0 pokemon name
-//1 pokemon type
-//2 level
-//3 HP
-//4 attack
-//5 defense
-//6 speed
-//7 move1name
-//8 move1type
-//9 move1strength
-//10 move1chance
-//11 move2name
-//12 move2type
-//13 move2strength
-//14 move2chance
-//15 move3name
-//16 move3tpye
-//17 move3strenght
-//18 move3cahnce

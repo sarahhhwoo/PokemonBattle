@@ -1,3 +1,9 @@
+package app;
+
+import models.Pokemon;
+import userInterface.OutputForPlayer;
+import userInterface.PlayerInput;
+
 import java.util.List;
 import java.util.Random;
 

@@ -1,3 +1,8 @@
+package models;
+
+import models.Moves;
+import models.Pokemon;
+
 public class EffectMoves extends Moves {
 
     public EffectMoves(String name, String type, int strength, int chance){

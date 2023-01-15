@@ -1,4 +1,9 @@
-public class AttackMoves extends Moves{
+package models;
+
+import models.Moves;
+import models.Pokemon;
+
+public class AttackMoves extends Moves {
 
     public AttackMoves(String name, String type, int strength, int chance){
         super(name, type, strength, chance);

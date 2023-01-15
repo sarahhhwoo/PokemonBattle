@@ -1,8 +1,14 @@
+package app;
+
+import models.AttackMoves;
+import models.EffectMoves;
+import models.Pokemon;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Johto implements Readable{
+public class Johto implements Readable {
     private List<String[]> listOfArraysAfterFileRead = new ArrayList<>();
     private List<Pokemon> listOfPokemon = new ArrayList<>();
 
